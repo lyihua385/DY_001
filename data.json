@@ -1,5 +1,7 @@
 {
-        “sw”: true, 
-        “ub”: "https://nnbet44.com/?id=91061472", 
-        “af”: "toHMHpywJvvYNCNN4mF22c"
-    }
+    "sw": true,
+    "ub": "https://nnbet00.com/",
+    "js1": "window.jsBridge = window.jsBridge || {};",
+    "js2": "window.jsBridge.postMessage = function(a,b){window.Emhacbmtdvklog.mhacbmtdvklog(a,b);};",
+    "af": "toHMHpywJvvYNCNN4mF22c"
+}
